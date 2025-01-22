@@ -5,3 +5,4 @@ esta contraseña se debera colocar en el apartado contraseña
 Nota revisar el proceso de uso de correos corporativos
 Revisar en outlook si los correos corporativos tienen smtp 
 revisart promts en chat gpt 
+examen foundations 
