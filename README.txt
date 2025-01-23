@@ -6,3 +6,4 @@ Nota revisar el proceso de uso de correos corporativos
 Revisar en outlook si los correos corporativos tienen smtp 
 revisart promts en chat gpt 
 examen foundations 
+se dejan notas para revisar 
