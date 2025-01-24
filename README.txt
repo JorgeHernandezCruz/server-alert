@@ -7,3 +7,4 @@ Revisar en outlook si los correos corporativos tienen smtp
 revisart promts en chat gpt 
 examen foundations 
 se dejan notas para revisar 
+revisar el uso de la consola de next edr
