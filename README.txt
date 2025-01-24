@@ -8,3 +8,4 @@ revisart promts en chat gpt
 examen foundations 
 se dejan notas para revisar 
 revisar el uso de la consola de next edr
+terminar de leer optimum
