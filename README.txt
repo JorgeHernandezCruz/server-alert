@@ -9,3 +9,5 @@ examen foundations
 se dejan notas para revisar 
 revisar el uso de la consola de next edr
 terminar de leer optimum
+crear un programa que pase csvs de reportes a tabla en excel
+o pueda sumar los archivos de los reportes semanales
