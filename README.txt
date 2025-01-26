@@ -13,3 +13,4 @@ crear un programa que pase csvs de reportes a tabla en excel
 o pueda sumar los archivos de los reportes semanales
 investigar sobre ia generadorea de imagen
 investigar sobre el uso de blender camara vhs
+ia que genere video 
