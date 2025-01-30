@@ -16,3 +16,4 @@ investigar sobre el uso de blender camara vhs
 ia que genere video 
 JUGAR POOLOROOMS Y ESCAPE THE BACKROOMS
 Sacar un video minimo
+revisar uso de make para automatizar
