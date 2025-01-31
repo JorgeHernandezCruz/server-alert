@@ -21,3 +21,4 @@ crear un pomodoro
 seguir con la lectura investigar si podemos convertirlo en audiolibro 
 descargar reportes y compararlos con los lw 
 reportes descargados 
+se revisa opszones cuerna pachuca morel;ia y villahermosa
