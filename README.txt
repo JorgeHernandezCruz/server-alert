@@ -18,3 +18,4 @@ JUGAR POOLOROOMS Y ESCAPE THE BACKROOMS
 Sacar un video minimo
 revisar uso de make para automatizar
 crear un pomodoro 
+seguir con la lectura investigar si podemos convertirlo en audiolibro 
