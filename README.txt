@@ -26,3 +26,4 @@ dejar la info en el archivo de opszones
 ciudad juarez tuxtla y puerto vallarte
 guanajuato se deja nota para push
 otro para prueba
+	uno mas 
