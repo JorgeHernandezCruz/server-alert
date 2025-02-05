@@ -24,4 +24,5 @@ reportes descargados
 se revisa opszones cuerna pachuca morel;ia y villahermosa
 dejar la info en el archivo de opszones
 ciudad juarez tuxtla y puerto vallarte
-guanajuato
+guanajuato tepic
+revisar uso de make
