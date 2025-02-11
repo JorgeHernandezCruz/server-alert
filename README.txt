@@ -56,3 +56,4 @@ ciudad juarez tuxtla y puerto vallarte
 guanajuato tepic
 revisar uso de make
 y como usarlo para el pm 
+ajustar pull request para gith
