@@ -57,3 +57,4 @@ guanajuato tepic
 revisar uso de make
 y como usarlo para el pm 
 ajustar pull request para gith
+revisar cambios que no se han ejecutado 
