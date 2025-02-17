@@ -1,4 +1,4 @@
-Este script se encarga de revisar si un servidor se encuentra activo apartir de su direccion IP 
+de Este script se encarga de revisar si un servidor se encuentra activo apartir de su direccion IP 
 Para configurarlo hay que colocar la direccion ip junto con el puerto asi como el correo
 se debera configurar Gmail en contraseña para aplicacion 
 esta contraseña se debera colocar en el apartado contraseña
@@ -53,9 +53,4 @@ reportes descargados
 se revisa opszones cuerna pachuca morel;ia y villahermosa
 dejar la info en el archivo de opszones
 ciudad juarez tuxtla y puerto vallarte
-guanajuato tepic
-revisar uso de make
-y como usarlo para el pm 
-ajustar pull request para gith
-revisar cambios que no se han ejecutado 
-realizar ppt para lofton pedir correos
+guanajuato 
